@@ -530,6 +530,10 @@
     [
       "c1ae5c15-0d21-4997-999f-ed3375b27422",
       "PCIE_DOWNSTREAM3"
+    ],
+    [
+      "b792fb4a-116f-4d37-b812-23a041b1618b",
+      "SW_PSU"
     ]
   ],
   "text_variables": {}
