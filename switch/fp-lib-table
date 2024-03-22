@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NEW")(type "KiCad")(uri "/Users/ashtonmiller/Projects/pcie_switch/Parts/NEW.pretty")(options "")(descr ""))
+)

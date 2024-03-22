@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2ec8ef9a-3350-4918-be31-24659f961e36)
+
+  (paper "A2")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at -209.55 173.99) (size 83.82 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 34c547e0-b1fd-49f1-86c7-6e781431037a)
+    (property "Sheetname" "PCIE_SW_IC" (at -209.55 173.2784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIE_SW_IC.kicad_sch" (at -209.55 212.6746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "PCIE_SWITCH"
+        (path "/2ec8ef9a-3350-4918-be31-24659f961e36" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
